@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science and Engineering, Korea University, 2012.08
+* M.S. in Electronic Engineering and Computer Science, Seoul National University, 2014.08
+* Ph.D in Electronic Engineering and Computer Science, Seoul National University, 2019.02
 
 Work experience
 ======
@@ -56,4 +56,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Assistance and Reviewers, 
