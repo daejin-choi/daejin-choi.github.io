@@ -86,7 +86,7 @@ author:
   bio              : "Research Scientist at Georgia Institute of Technology"
   location         : "Atlanta, Georgia"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "http://scholar.google.com/citations?user=kEX5OAoAAAAJ"
   email            : "djchoi@gatech.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mmlab-djchoi"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
