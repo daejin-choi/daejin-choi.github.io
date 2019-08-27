@@ -4,7 +4,7 @@ collection: talks
 type: "Tutorial"
 permalink: /talks/tutorial_hanyang2018
 venue: "Hanyang University"
-date: 2014-02-01
+date: 2018-05-25
 location: "Ansan, South Korea"
 ---
 
