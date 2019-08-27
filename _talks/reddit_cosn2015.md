@@ -1,5 +1,5 @@
 ---
-title: "Characterizing Online Conversations on Reddit:From the Perspectives of Content Properties and User Participation Behaviors"
+title: "[Conference Talk] Characterizing Online Conversations on Reddit:From the Perspectives of Content Properties and User Participation Behaviors"
 collection: talks
 type: "Talk"
 permalink: /talks/reddit_cosn2015
