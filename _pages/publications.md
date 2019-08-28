@@ -43,23 +43,27 @@ author_profile: true
   * 2017
       * "Predicting Popular and Viral Image Cascades in Pinterest",  
       Jinyoung Han, **Daejin Choi**, Jungseock Joo and Chen-Nee Chuah,  
-      International AAAI Conference on Web and Social Media (ICWSM 17'), Montreal, Canada, 2017. <span style="color:red">(acceptance ratio = 50/357= 14.0%)</span> [LINK](https://aaai.org/ocs/index.php/ICWSM/ICWSM17/paper/view/15605)
+      International AAAI Conference on Web and Social Media (ICWSM 17'), Montreal, Canada, 2017.  
+      <span style="color:red">(acceptance ratio = 50/357= 14.0%)</span> [![LINK](/images/pdf.gif)](https://aaai.org/ocs/index.php/ICWSM/ICWSM17/paper/view/15605)
 
   * Before 2016
       * "Characterizing Conversation Patterns in Reddit: From the Perspectives of Content Properties and User Participation Behaviors",  
       **Daejin Choi**, Jinyoung Han, Taejoong Chung, Yong-Yeol Ahn, Byung-Gon Chun, Ted "Taekyoung" Kwon,  
-      ACM Conference on Online Social Networks (COSN) 2015, Standford, CA, USA, Nov. 2015. <span style="color:red">(acceptance ratio = 22/82 = 26.8%)</span> [LINK](https://dl.acm.org/citation.cfm?id=2817959)
+      ACM Conference on Online Social Networks (COSN) 2015, Standford, CA, USA, Nov. 2015.  
+      <span style="color:red">(acceptance ratio = 22/82 = 26.8%)</span> [![LINK](/images/pdf.gif)](https://dl.acm.org/citation.cfm?id=2817959)
 
       * "Sharing Topics in Pinterest: Understanding Content Creation and Diffusion Behaviors"  
       Jinyoung Han, **Daejin Choi**, A-Young Choi, Jiwon Choi, Taejoong Chung, Ted "Taekyoung" Kwon, Jong-Youn Rha, Chen-Nee Chuah,  
-      ACM Conference on Online Social Networks (COSN) 2015, Standford, CA, USA, Nov. 2015. <span style="color:red">(acceptance ratio = 22/82 = 26.8%)</span> [LINK](https://dl.acm.org/citation.cfm?id=2817961)  
+      ACM Conference on Online Social Networks (COSN) 2015, Standford, CA, USA, Nov. 2015.  
+      <span style="color:red">(acceptance ratio = 22/82 = 26.8%)</span> [![LINK](/images/pdf.gif)](https://dl.acm.org/citation.cfm?id=2817961)  
 
       * "Collecting, Organizing, and Sharing Pins in Pinterest:Interest-driven or Social-driven?",  
       Jinyoung Han, **Daejin Choi**, Byung-Gon Chun, Ted "Taekyoung" Kwon, Hyun-chul Kim and Yanghee Choi,  
-      ACM SIGMETRICS, Austin, Texas, USA, Jun. 2014. <span style="color:red">(acceptance ratio = 40/238 = 16.8%)</span> [LINK](https://dl.acm.org/citation.cfm?id=2591996)  
+      ACM SIGMETRICS, Austin, Texas, USA, Jun. 2014. <span style="color:red">(acceptance ratio = 40/238 = 16.8%)</span> [![LINK](/images/pdf.gif)](https://dl.acm.org/citation.cfm?id=2591996)  
       Also published in ACM SIGMETRICS Performance Evaluation Review, Vol. 42, Issue 1, pp. 15-27, Jun. 2014. 
 
       * "Unveiling Group Activities in Online Social Games: A Socio-Economic Analysis",  
       Taejoong Chung, Jinyoung Han, **Daejin Choi**, Ted "Taekyoung" Kwon, Huy Kang Kim and Yanghee Choi,  
-      International World Wide Web (WWW) 2014, Seoul, Korea, Apr. 2014. <span style="color:red">(acceptance ratio = 84/650 = 12.9%)</span> [LINK](https://dl.acm.org/citation.cfm?id=2568011)
+      International World Wide Web (WWW) 2014, Seoul, Korea, Apr. 2014. <span style="color:red">(acceptance ratio = 84/650 = 12.9%)</span> [![LINK](/images/pdf.gif)](https://dl.acm.org/citation.cfm?id=2568011)
+
 
