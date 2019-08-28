@@ -10,7 +10,10 @@ redirect_from:
 
 Welcome to Dr. Daejin Choi's webpage.
 
-Currently the page is being developed.
+The majority of my research topics lies on Data Science. In particular, the
+study includes Computational Social Science, Network measurement. Currently, I
+am interested in designing (and implementing) machine-learning-based
+applications on these domains.
 
 {% include base_path %}
 

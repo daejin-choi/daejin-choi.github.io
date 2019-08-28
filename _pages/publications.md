@@ -10,35 +10,36 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+
   * 2019
       * "Who Drives Successful Online Conversations? Unveiling the Role of First User Response",  
       Ye-eun Won, Jiwon Kang, **Daejin Choi**, Eunil Park, and Jinyoung Han,  
-      Kybernetes, Accepted. (DOI: 10.1108/K-09-2018-0518) [LINK](https://www.emerald.com/insight/content/doi/10.1108/K-09-2018-0518/full/pdf?title=who-drives-successful-online-conversations-unveiling-the-role-of-first-user-response)
+      Kybernetes, Accepted. (DOI: 10.1108/K-09-2018-0518) [![LINK](/images/pdf.gif)](https://www.emerald.com/insight/content/doi/10.1108/K-09-2018-0518/full/pdf?title=who-drives-successful-online-conversations-unveiling-the-role-of-first-user-response)
 
       * "Understanding Customers' Hotel Revisiting Behaviour: A Sentiment Analysis of Online Feedback Reviews",  
       Eunil Park, Jiwon Kang, **Daejin Choi**, and Jinyoung Han  
-      Current Issues in Tourism, Accepted. (DOI: 10.1080/13683500.2018.1549025) [LINK](https://www.tandfonline.com/doi/full/10.1080/13683500.2018.1549025)
+      Current Issues in Tourism, Accepted. (DOI: 10.1080/13683500.2018.1549025) [![LINK](/images/pdf.gif)](https://www.tandfonline.com/doi/full/10.1080/13683500.2018.1549025)
 
       * "Predicting Content Consumption from Content-to-Content Relationships",   
       Jinyoung Han, **Daejin Choi**, Taejoong Chung, Chen-Nee Chuah, Hyun-chul Kim, and Ted "Taekyoung" Kwon,   
-      Elsevier Journal of Network and Computer Applications (JNCA), April 2019. (DOI: 10.1016/j.jnca.2019.01.030) [LINK](https://www.sciencedirect.com/science/article/pii/S108480451930044X)
+      Elsevier Journal of Network and Computer Applications (JNCA), April 2019. (DOI: 10.1016/j.jnca.2019.01.030) [![LINK](/images/pdf.gif)](https://www.sciencedirect.com/science/article/pii/S108480451930044X)
 
   * 2018
       * "Privacy Leakage in Event-based Social Networks: A Meetup Case Study",  
       Taejoong Chung, Jinyoung Han, **Daejin Choi**, Taekyoung Kwon, Jong-Youn Rha, and Hyunchul Kim,  
-      ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW`18), Jersey City, United States, November 2018. <span style="color:red">(acceptance ratio = 105/384 = 27.3%)</span> [LINK](https://dl.acm.org/citation.cfm?id=3134670)
+      ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW`18), Jersey City, United States, November 2018. <span style="color:red">(acceptance ratio = 105/384 = 27.3%)</span> [![LINK](/images/pdf.gif)](https://dl.acm.org/citation.cfm?id=3134670)
 
       * "Understanding Influential Comments in Online Conversations",  
       Jiwon Kang, **Daejin Choi**, Eunil Park, and Jinyoung Han,  
-      ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW`18), Jersey City, United States, November 2018. (poster) [LINK](https://dl.acm.org/citation.cfm?id=3274054)
+      ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW`18), Jersey City, United States, November 2018. (poster) [![LINK](/images/pdf.gif)](https://dl.acm.org/citation.cfm?id=3274054)
 
       * "Unveiling a Socio-Economic System in a Virtual World: A Case Study of an MMORPG",  
       Selin Chun, **Daejin Choi**, Jinyoung Han, Huy Kang Kim, and Taekyoung Kwon,  
-      International World Wide Web Conferenc (WWW) 2018, Ryon, France, April 2018. [LINK](https://dl.acm.org/citation.cfm?id=3186173)
+      International World Wide Web Conferenc (WWW) 2018, Ryon, France, April 2018. [![LINK](/images/pdf.gif)](https://dl.acm.org/citation.cfm?id=3186173)
 
       * "Bit.ly/practice: Uncovering Content Publishing and Sharing through URL Shortening Services",  
       **Daejin Choi**, Jinyoung Han, Selin Chun, Efstratios Rappos, Stephan Robert, and Ted "Taekyoung" Kwon,  
-      Elsevier Telematics and Informatics, Vol. 35, Issue 5, pp. 1310-1323, August 2018. (DOI: 10.1016/j.tele.2018.03.003  [LINK](https://doi.org/10.1016/j.tele.2018.03.003)
+      Elsevier Telematics and Informatics, Vol. 35, Issue 5, pp. 1310-1323, August 2018. (DOI: 10.1016/j.tele.2018.03.003  [![LINK](/images/pdf.gif)](https://doi.org/10.1016/j.tele.2018.03.003)
 
   * 2017
       * "Predicting Popular and Viral Image Cascades in Pinterest",  
@@ -65,5 +66,4 @@ author_profile: true
       * "Unveiling Group Activities in Online Social Games: A Socio-Economic Analysis",  
       Taejoong Chung, Jinyoung Han, **Daejin Choi**, Ted "Taekyoung" Kwon, Huy Kang Kim and Yanghee Choi,  
       International World Wide Web (WWW) 2014, Seoul, Korea, Apr. 2014. <span style="color:red">(acceptance ratio = 84/650 = 12.9%)</span> [![LINK](/images/pdf.gif)](https://dl.acm.org/citation.cfm?id=2568011)
-
 

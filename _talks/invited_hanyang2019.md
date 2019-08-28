@@ -1,5 +1,5 @@
 ---
-title: "[Invited Talk] Data Science \& Machine Learning Tutorial"
+title: "[Invited Talk] Data Science & Machine Learning Tutorial"
 collection: talks
 type: "Invited Talk"
 permalink: /talks/invited_hanyang2019
