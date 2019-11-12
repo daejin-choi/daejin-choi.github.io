@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# Last Updated: Aug. 28 2019
+## Last Updated: Aug. 28 2019
 
 Click [here]({{ base_path }}/files/cv_djchoi.pdf) to download PDF version.
 
