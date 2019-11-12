@@ -221,8 +221,10 @@
 
       Promise.all([
         // d3.csv('/ec_network_nodes_modified.csv'),
-        d3.tsv('/ec_network_nodes.tsv'),
-        d3.csv('/ec_network_edges.csv'),
+        // d3.tsv('/ec_network_nodes.tsv'),
+        // d3.csv('/ec_network_edges.csv'),
+        d3.tsv('ec_network_nodes.tsv'),
+        d3.csv('ec_network_edges.csv'),
       ]).then(function(data) {
         nodes = data[0];
         edges = data[1];
