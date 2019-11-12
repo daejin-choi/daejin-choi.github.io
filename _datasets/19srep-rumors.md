@@ -44,6 +44,8 @@ only considered the claims that include more than three words to avoid collectin
 trivial tweets/retweets. Finally, the generated set of words for a rumor is
 forwarded to the Twitter crawler in our system. 
 
+<br/><img src='/files/srep-rumors/Fig7.jpg'>"
+
 The Twitter crawler retrieved the tweets/retweets associated with rumors by
 using the Tweepy, a Python library for accessing the Twitter
 Search API. Among the collected tweets/retweets, we filtered
