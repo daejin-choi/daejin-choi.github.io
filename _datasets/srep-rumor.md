@@ -4,8 +4,6 @@ excerpt: "Daejin Choi, Selin Chun, Hyunchul Oh, Jinyoung Han, and Taekyoung 'Ted
 collection: datasets
 ---
 
-{% include base_path %}
-
 Daejin Choi, Selin Chun, Hyunchul Oh, Jinyoung Han, and Taekyoung "Ted" Kwon, under review
 
 -----
