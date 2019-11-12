@@ -96,7 +96,7 @@ study are available from the corresponding author on reasonable request.
 -----
 ## Supplementary Materials
 
-* [Echo Chamber Network] ({{ base_path }}/files/srep-rumors/ecn.html)
+* [Echo Chamber Network]({{ base_path }}/files/srep-rumors/ecn.html)
 
 <span style="color:red">This work is currently under review. Do not use the datasets before published</span>.
 -----
