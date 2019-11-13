@@ -24,14 +24,12 @@
         outline: 1px solid black;
       }
 
-      #legend {
-        flex-basis: 20px;
-      }
-
       #tooltip {
         position: absolute;
-        height: auto;
-        width: auto;
+        top: -100px;
+        left: -100px;
+        height: 0;
+        width: 0;
         padding-top: 10px;
         padding-bottom: 5px;
         padding-left: 20px;
@@ -41,6 +39,17 @@
         border-style: solid;
         border-color: black;
         border-radius: 25px;
+        opacity: 0;
+      }
+
+      #legend {
+        flex-basis: 80px;
+        margin-right: 5px;
+        position: relative;
+      }
+
+      .tick {
+        stroke: black;
       }
 
       .rumor_text {
@@ -190,7 +199,7 @@
           </label>
         </div>
       </div>
-      <svg id="legend"></svg>
+      <div id="legend"></div>
       <svg id="graph_drawing"></svg>
     </div>
     <div id="tooltip">
@@ -200,7 +209,13 @@
       var svg = d3.select("#graph_drawing")
       var width = +svg.node().getBoundingClientRect().width,
         height = +svg.node().getBoundingClientRect().height;
-
+      var color = d3
+        .scaleSequential(
+          // [min_homophily, max_homophily],
+          [-4, 4],
+          // d3.interpolateTurbo
+          d3.interpolateRdYlBu
+        );
       //zoom 기능 정의. scaleExtent 부분을 수정하여 zoom의 한계를 조정할 수 있다.
       var zoomer = d3.zoom()
         // .scaleExtent([0.1, 8])
@@ -220,9 +235,6 @@
       var svg_node, svg_edge, svg_circle;
 
       Promise.all([
-        // d3.csv('/ec_network_nodes_modified.csv'),
-        // d3.tsv('/ec_network_nodes.tsv'),
-        // d3.csv('/ec_network_edges.csv'),
         d3.tsv('ec_network_nodes.tsv'),
         d3.csv('ec_network_edges.csv'),
       ]).then(function(data) {
@@ -235,14 +247,6 @@
         homophily_arr = nodes.map(x => x.Homophily);
         max_homophily = Math.max.apply(null, homophily_arr)
         min_homophily = Math.min.apply(null, homophily_arr)
-
-        var color = d3
-          .scaleSequential(
-            // [min_homophily, max_homophily],
-            [-4, 4],
-            // d3.interpolateTurbo
-            d3.interpolateRdYlBu
-          )
 
         svg_edge = svg.append('g')
           .attr('class', 'edges')
@@ -335,6 +339,7 @@
         // })
 
         updateDisplay();
+        drawLegend();
         simulation.nodes(nodes);
         initializeForces();
         simulation.on('tick', ticked)
@@ -477,6 +482,71 @@
         if (!d3.event.active) simulation.alphaTarget(0);
         d.fx = null;
         d.fy = null;
+      }
+
+      // Draw colorscale legend
+      function drawLegend() {
+        var legend_h = 600, legend_w = 30,
+          margin = {'top': 20, 'bottom': 10};
+
+        var canvas = d3.select('#legend')
+          .append('canvas')
+          .attr('height', (legend_h - margin.top - margin.bottom) + 'px')
+          .attr('width', 1)
+          .style('height', (legend_h - margin.top - margin.bottom) + 'px')
+          .style('width', legend_w + 'px')
+          .style('position', 'absolute')
+          .style('border', '1px solid #000')
+          .style('top', margin.top + 'px')
+          .node()
+
+        var ctx = canvas.getContext('2d');
+
+        var img = ctx.createImageData(1, legend_h);
+
+        var legendScale = d3.scaleLinear()
+          .range([1, legend_h - margin.top - margin.bottom])
+          .domain([4, -4])
+
+        d3.range(legend_h).forEach(function(i) {
+          var c = d3.rgb(color(legendScale.invert(i)));
+          img.data[4*i] = c.r;
+          img.data[4*i + 1] = c.g;
+          img.data[4*i + 2] = c.b;
+          img.data[4*i + 3] = 255;
+        });
+
+        ctx.putImageData(img, 0, 0);
+
+        var legendAxis = d3.axisRight()
+          .scale(legendScale)
+          .tickSize(10)
+          .ticks(8);
+
+        var svg = d3.select('#legend')
+          .append('svg')
+          .attr('height', legend_h + 'px')
+          .attr('width', (legend_w + 30) + 'px')
+          .style('position', 'absolute')
+          .style('left', '0px')
+          .style('top', '0px')
+
+        svg.append('text')
+//          .attr('x', 10 + 'px') 
+//          .attr('y', 10 + 'px') 
+          .attr('font-family', 'sans-serif')
+          .attr('font-size', '11')
+          .attr('font-weight', 'bold')
+          .attr('fill', 'black')
+          .attr('transform', 'translate(0,' + (margin.top - 10) + ')')
+          .text('Homophily');
+
+        svg.append('g')
+          .attr('class', 'axis')
+          .attr('transform', 'translate(' + (legend_w + 3) + ',' + margin.top + ')')
+          .call(legendAxis);
+
+
       }
 
       // update size-related forces
