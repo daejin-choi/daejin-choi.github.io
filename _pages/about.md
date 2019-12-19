@@ -26,8 +26,6 @@ News (Last updated: Dec. 20 2019)
 - <span style="color:rgb(33,67,156)">**[Feb. 25 2019]** I graduated the Ph.D.
   program in Seoul National University, Korea and joined Georgia
   Institute of Technology, as a Research Scientist, starting from Feb. 2019.</span>
-- <span style="color:rgb(33,67,156)">**[Feb. 25 2019]** I graduated Georgia
-  Institute of Technology, as a Research Scientist, starting from Feb. 2019.</span>
 - <span style="color:rgb(33,67,156)"> **[Feb. 09 2019]** Our paper on Content
   Network has been accepted to JNCA!
 - <span style="color:rgb(0,0,0)"> **[Nov. 09 2018]** Our paper on hotel
