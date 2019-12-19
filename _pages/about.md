@@ -17,7 +17,7 @@ applications on these domains.
 
 {% include base_path %}
 
-News (Last updated: Mar. 1 2019)
+News (Last updated: Dec. 20 2019)
 =====
 - <span style="color:rgb(33,67,156)"> **[Dec. 19 2019]** The work on Rumor Echo
   Chamber in Social Media has finally been accepted to Scientific Reports!
