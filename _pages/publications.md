@@ -15,7 +15,7 @@ author_profile: true
       * "Rumor Propagation is Amplified by Echo Chambers in Social Media",     
       **Daejin Choi**, Selin Chun, Hyunchul Oh, Jinyoung Han, and Ted "Taekyoung" Kwon,    
       Scientific Reports. Vol. 10, Issue 1, pp. 310. Jan. 2020.
-      (DOI:10.1038/s41598-019-57272-3) [![LINK](/images/pdf.gif)](https://doi.org/10.1038/s41598-019-57272-3, SCI. IF=4.122)
+      (DOI:10.1038/s41598-019-57272-3, SCI. IF=4.122) [![LINK](/images/pdf.gif)](https://doi.org/10.1038/s41598-019-57272-3)
 
   * 2019
       * "Who Drives Successful Online Conversations? Unveiling the Role of First User Response",  
