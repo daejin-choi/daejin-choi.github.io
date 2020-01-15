@@ -9,7 +9,6 @@ Daejin Choi, Selin Chun, Hyunchul Oh, Jinyoung Han, and Taekyoung "Ted" Kwon, un
 -----
 ## Citation
 [BibTex]({{ base_path }}/files/srep-rumors/srep-rumor.bib)
------
 
 ## Abstract
 Spreading rumors on the Internet has become increasingly pervasive due to the
