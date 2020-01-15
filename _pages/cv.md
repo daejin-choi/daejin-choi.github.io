@@ -34,6 +34,12 @@ Selected Publications
 ======
 see [here]({{ base_path }}/publications/) for all publications.
 
+  * 2020
+      * "Rumor Propagation is Amplified by Echo Chambers in Social Media",     
+      **Daejin Choi**, Selin Chun, Hyunchul Oh, Jinyoung Han, and Ted "Taekyoung" Kwon,    
+      Scientific Reports. Vol. 10, Issue 1, pp. 310. Jan. 2020.
+      (DOI:10.1038/s41598-019-57272-3) [![LINK](/images/pdf.gif)](https://doi.org/10.1038/s41598-019-57272-3, SCI. IF=4.122)
+
   * 2019
       * "Who Drives Successful Online Conversations? Unveiling the Role of First User Response",  
       Ye-eun Won, Jiwon Kang, **Daejin Choi**, Eunil Park, and Jinyoung Han,  
@@ -111,6 +117,7 @@ Talks
 Academic Services
 ======
 * Reviewers
+  * The Web Conference 2019
   * ACM CSCW 2018
   * IEEE VTC 2014
   * European Conference on Networks and Communications (EuCNC) 2014
