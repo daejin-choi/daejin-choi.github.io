@@ -7,6 +7,9 @@ collection: datasets
 Daejin Choi, Selin Chun, Hyunchul Oh, Jinyoung Han, and Taekyoung "Ted" Kwon, under review
 
 -----
+## Citation
+[BibTex]({{ base_path }}/files/srep-rumors/srep-rumor.bib)
+-----
 
 ## Abstract
 Spreading rumors on the Internet has become increasingly pervasive due to the
@@ -98,7 +101,6 @@ study are available from the corresponding author on reasonable request.
 
 * [Echo Chamber Network]({{ base_path }}/files/srep-rumors/ecn.html)
 
-<span style="color:red">This work is currently under review. Do not use the datasets before published</span>.
 -----
 ## Contact
 Daejin Choi (djchoi@gatech.edu)
