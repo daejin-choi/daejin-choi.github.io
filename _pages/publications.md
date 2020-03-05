@@ -23,7 +23,7 @@ author_profile: true
   * 2019
       * "Who Drives Successful Online Conversations? Unveiling the Role of First User Response",  
       Ye-eun Won, Jiwon Kang, **Daejin Choi**, Eunil Park, and Jinyoung Han,  
-      Kybernetes, June 2019. (SCIE) [![LINK](/images/pdf.gif)](https://www.emerald.com/insight/content/doi/10.1108/K-09-2018-0518/full/pdf?title=who-drives-successful-online-conversations-unveiling-the-role-of-first-user-response)
+      Kybernetes, Vol. 49, Issue 3, pp. 876-884. June 2019. (SCIE) [![LINK](/images/pdf.gif)](https://www.emerald.com/insight/content/doi/10.1108/K-09-2018-0518/full/pdf?title=who-drives-successful-online-conversations-unveiling-the-role-of-first-user-response)
 
       * "Predicting Content Consumption from Content-to-Content Relationships",   
       Jinyoung Han, **Daejin Choi**, Taejoong Chung, Chen-Nee Chuah, Hyun-chul Kim, and Ted "Taekyoung" Kwon,   
