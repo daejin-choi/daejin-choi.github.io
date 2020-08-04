@@ -17,8 +17,12 @@ applications on these domains.
 
 {% include base_path %}
 
-News (Last updated: Feb. 24 2020)
+News (Last updated: Aug. 04 2020)
 =====
+- <span style="color:rgb(255,50,50)"> **[Aug. 04 2020]** I will be joining
+  CS Department at Incheon National University as an Assistant Professor in fall
+  semester. It was the great honor to work with the competitive collaborators at
+  Georgia Institute of Technology.
 - <span style="color:rgb(33,67,156)"> **[Feb. 24 2020]** Our work on forecasting
   suicide rates is mentioned in Vox News! See
   [Here](https://www.vox.com/recode/2020/2/24/21150196/twitter-reddit-suicide-cdc-artificial-intelligence)
