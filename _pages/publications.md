@@ -12,6 +12,10 @@ author_profile: true
 {% include base_path %}
 
   * 2020
+      * "Exploring public perceptions of renewable energy: Evidence from a word network model in social network services",  
+      Jisu Kim, Dahye Jeong, **Daejin Choi**, and Eunil Park
+      accepted to Energy Strategy Reviews. (SCIE)
+
       * "Understanding Customers' Hotel Revisiting Behaviour: A Sentiment Analysis of Online Feedback Reviews",  
       Eunil Park, Jiwon Kang, **Daejin Choi**, and Jinyoung Han  
       Current Issues in Tourism. Vol. 23, Issue 5, pp. 605-611, February 2020. (SSCI) [![LINK](/images/pdf.gif)](https://www.tandfonline.com/doi/full/10.1080/13683500.2018.1549025)

@@ -13,22 +13,23 @@ redirect_from:
 
 Click [here]({{ base_path }}/files/cv_djchoi.pdf) to download PDF version.
 
-Education
-======
-* Ph.D in Electronic Engineering and Computer Science, Seoul National University, 2019.02
-  * Thesis:"Understanding and Predicting User Behavior and Content Propagation Patterns in Internet: A Data-Scientific Approach"  
-  Supervisors: Prof. Ted "Taekyoung" Kwon and Prof. Yanghee Choi
-* B.S. in Computer Science and Engineering (Mathematics as Minor), Korea University, 2012.08
-
 Professional Experiences
 ======
-* Feb. 2019 - present: **Research Scientist** at Georgia Institute of Technology.  
+* Sep. 2020 - present: **Assistant Professor** at Incheon National University.  
+* Feb. 2019 - Aug. 2020: **Research Scientist** at Georgia Institute of Technology.  
   (PI: Munmun De Choudhury)
 * Aug. 2012 - Feb. 2019: **Research Assistance** at Seoul National University.  
   (Supervisors: Prof. Ted "Taekyoung" Kwon and Prof. Yanghee Choi )
 * Aug. 2016 - Dec. 2016: **Visiting Researcher** at HEIG-VD, Swithzerland.
 * Aug. 2007 - Jan. 2010: **Software Engineer** at GameVil Inc. 
 
+
+Education
+======
+* Ph.D in Electronic Engineering and Computer Science, Seoul National University, 2019.02
+  * Thesis:"Understanding and Predicting User Behavior and Content Propagation Patterns in Internet: A Data-Scientific Approach"  
+  Supervisors: Prof. Ted "Taekyoung" Kwon and Prof. Yanghee Choi
+* B.S. in Computer Science and Engineering (Mathematics as Minor), Korea University, 2012.08
  
 Selected Publications
 ======

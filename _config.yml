@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr. Daejin Choi"
 title_separator          : "-"
 name                     : &name "Dr. Daejin Choi"
-description              : &description "Research Scientist at Georgia Institute of Technology"
+description              : &description "Assistant Professor at Incheon National University"
 url                      : https://daejin-choi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "daejin-choi.github.io"
@@ -83,11 +83,11 @@ author:
   name             : "Dr. Daejin Choi"
   avatar           : "profile.jpg"
   bio              : "Research Scientist at Georgia Institute of Technology"
-  location         : "Atlanta, Georgia"
+  location         : "Incheon, South Korea"
   employer         :
   pubmed           : 
   googlescholar    : "http://scholar.google.com/citations?user=kEX5OAoAAAAJ"
-  email            : "djchoi@gatech.edu"
+  email            : "djchoi@inu.ac.kr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
