@@ -17,8 +17,10 @@ applications on these domains.
 
 {% include base_path %}
 
-News (Last updated: Aug. 04 2020)
+News (Last updated: Sep. 25 2020)
 =====
+
+- <span style="color:rgb(33,67,156)"> **[Sep. 16 2020]** Our paper on cross-lingual suicidal-oriented word embedding has been accepted to EMNLP Findings!
 - <span style="color:rgb(255,50,50)"> **[Aug. 04 2020]** I will be joining
   CS Department at Incheon National University as an Assistant Professor in fall
   semester. It was the great honor to work with the competitive collaborators at
