@@ -12,16 +12,16 @@ author_profile: true
 {% include base_path %}
 
   * 2020
-      * "Cross-Lingual Suicidal-Oriented Word Embedding toward Suicide Prevention,"
-      Daeun Lee, Soyoung Park, Jiwon Kang, **Daejin Choi**, and Jinyoung Han
+      * "Cross-Lingual Suicidal-Oriented Word Embedding toward Suicide Prevention,"  
+      Daeun Lee, Soyoung Park, Jiwon Kang, **Daejin Choi**, and Jinyoung Han,  
       EMNLP Findings, Nov. 2020.
 
-      * "Exploring public perceptions of renewable energy: Evidence from a word network model in social network services",  
-      Jisu Kim, Dahye Jeong, **Daejin Choi**, and Eunil Park
+      * "Exploring public perceptions of renewable energy: Evidence from a word network model in social network services,"  
+      Jisu Kim, Dahye Jeong, **Daejin Choi**, and Eunil Park,  
       Energy Strategy Reviews. Vol. 32, pp. 100552, November 2020. (SCIE) [![LINK](/images/pdf.gif)](http://www.sciencedirect.com/science/article/pii/S2211467X2030105X)
 
       * "Understanding Customers' Hotel Revisiting Behaviour: A Sentiment Analysis of Online Feedback Reviews",  
-      Eunil Park, Jiwon Kang, **Daejin Choi**, and Jinyoung Han  
+      Eunil Park, Jiwon Kang, **Daejin Choi**, and Jinyoung Han,  
       Current Issues in Tourism. Vol. 23, Issue 5, pp. 605-611, February 2020. (SSCI) [![LINK](/images/pdf.gif)](https://www.tandfonline.com/doi/full/10.1080/13683500.2018.1549025)
 
       * "Rumor Propagation is Amplified by Echo Chambers in Social Media",     
