@@ -12,30 +12,34 @@ author_profile: true
 {% include base_path %}
 
   * 2020
+      * "Development of a Machine Learning Model Using Multiple, Heterogeneous Data Sources to Estimate Weekly US Suicide Fatalities,"  
+      Daejin Choi, Steven A. Sumner, Kristin M. Holland, John Draper, Sean Murphy, Daniel A. Bowen, Marissa Zwald, Jing Wang, Royal Law, Jordan Taylor, Chaitanya Konjeti, Munmun De Choudhury,  
+      JAMA Network Open, December 2020. (SCIE, JCR 2019 IF = 5.032)
+
       * "Cross-Lingual Suicidal-Oriented Word Embedding toward Suicide Prevention,"  
       Daeun Lee, Soyoung Park, Jiwon Kang, **Daejin Choi**, and Jinyoung Han,  
-      EMNLP Findings, Nov. 2020.
+      EMNLP Findings, November 2020. [![LINK](/image/pdf.gif)](https://www.aclweb.org/anthology/2020.findings-emnlp.200/)
 
       * "Exploring public perceptions of renewable energy: Evidence from a word network model in social network services,"  
       Jisu Kim, Dahye Jeong, **Daejin Choi**, and Eunil Park,  
-      Energy Strategy Reviews. Vol. 32, pp. 100552, November 2020. (SCIE) [![LINK](/images/pdf.gif)](http://www.sciencedirect.com/science/article/pii/S2211467X2030105X)
+      Energy Strategy Reviews. Vol. 32, pp. 100552, November 2020. (SCIE, JCR 2019 IF = 3.895) [![LINK](/images/pdf.gif)](http://www.sciencedirect.com/science/article/pii/S2211467X2030105X)
 
       * "Understanding Customers' Hotel Revisiting Behaviour: A Sentiment Analysis of Online Feedback Reviews",  
       Eunil Park, Jiwon Kang, **Daejin Choi**, and Jinyoung Han,  
-      Current Issues in Tourism. Vol. 23, Issue 5, pp. 605-611, February 2020. (SSCI) [![LINK](/images/pdf.gif)](https://www.tandfonline.com/doi/full/10.1080/13683500.2018.1549025)
+      Current Issues in Tourism. Vol. 23, Issue 5, pp. 605-611, February 2020. (SSCI, JCR 2019 IF=4.147) [![LINK](/images/pdf.gif)](https://www.tandfonline.com/doi/full/10.1080/13683500.2018.1549025)
 
       * "Rumor Propagation is Amplified by Echo Chambers in Social Media",     
       **Daejin Choi**, Selin Chun, Hyunchul Oh, Jinyoung Han, and Ted "Taekyoung" Kwon,    
-      Scientific Reports. Vol. 10, Issue 1, pp. 310. January 2020. (SCIE) [![LINK](/images/pdf.gif)](https://doi.org/10.1038/s41598-019-57272-3)
+      Scientific Reports. Vol. 10, Issue 1, pp. 310. January 2020. (SCIE, JCR 2019 IF = 3.998) [![LINK](/images/pdf.gif)](https://doi.org/10.1038/s41598-019-57272-3)
 
   * 2019
       * "Who Drives Successful Online Conversations? Unveiling the Role of First User Response",  
       Ye-eun Won, Jiwon Kang, **Daejin Choi**, Eunil Park, and Jinyoung Han,  
-      Kybernetes, Vol. 49, Issue 3, pp. 876-884. June 2019. (SCIE) [![LINK](/images/pdf.gif)](https://www.emerald.com/insight/content/doi/10.1108/K-09-2018-0518/full/pdf?title=who-drives-successful-online-conversations-unveiling-the-role-of-first-user-response)
+      Kybernetes, Vol. 49, Issue 3, pp. 876-884. June 2019. (SCIE, JCR 2019 IF = 1.754) [![LINK](/images/pdf.gif)](https://www.emerald.com/insight/content/doi/10.1108/K-09-2018-0518/full/pdf?title=who-drives-successful-online-conversations-unveiling-the-role-of-first-user-response)
 
       * "Predicting Content Consumption from Content-to-Content Relationships",   
       Jinyoung Han, **Daejin Choi**, Taejoong Chung, Chen-Nee Chuah, Hyun-chul Kim, and Ted "Taekyoung" Kwon,   
-      Elsevier Journal of Network and Computer Applications (JNCA), Vol. 132, pp. 1-9, April 2019. (SCIE) [![LINK](/images/pdf.gif)](https://www.sciencedirect.com/science/article/pii/S108480451930044X)
+      Elsevier Journal of Network and Computer Applications (JNCA), Vol. 132, pp. 1-9, April 2019. (SCIE, JCR 2019 IF = 5.570) [![LINK](/images/pdf.gif)](https://www.sciencedirect.com/science/article/pii/S108480451930044X)
 
   * 2018
       * "Privacy Leakage in Event-based Social Networks: A Meetup Case Study",  
