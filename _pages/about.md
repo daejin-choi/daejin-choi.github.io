@@ -17,9 +17,10 @@ applications on these domains.
 
 {% include base_path %}
 
-News (Last updated: Sep. 25 2020)
+News (Last updated: Dec. 23 2020)
 =====
 
+- <span style="color:rgb(33,67,156)"> **[Dec. 23 2020]** Our paper on estimating weekly suicide fatalities in real-time has been published to JAMA Network Open!
 - <span style="color:rgb(33,67,156)"> **[Sep. 16 2020]** Our paper on cross-lingual suicidal-oriented word embedding has been accepted to EMNLP Findings!
 - <span style="color:rgb(255,50,50)"> **[Aug. 04 2020]** I will be joining
   CS Department at Incheon National University as an Assistant Professor in fall
@@ -28,7 +29,7 @@ News (Last updated: Sep. 25 2020)
 - <span style="color:rgb(33,67,156)"> **[Feb. 24 2020]** Our work on forecasting
   suicide rates is mentioned in Vox News! See
   [Here](https://www.vox.com/recode/2020/2/24/21150196/twitter-reddit-suicide-cdc-artificial-intelligence)
-- <span style="color:rgb(33,67,156)"> **[Dec. 19 2019]** The work on Rumor Echo Chamber in Social Media has finally
+- <span style="color:rgb(0,0,0)"> **[Dec. 19 2019]** The work on Rumor Echo Chamber in Social Media has finally
   been accepted to Scientific Reports!</span>
 - <span style="color:rgb(0,0,0)"> **[Apr. 21 2019]** Our paper on successful
   conversations on Reddit has been accepted to Kybernetes!
