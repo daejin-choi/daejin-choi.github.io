@@ -18,7 +18,7 @@ author_profile: true
 
       * "Cross-Lingual Suicidal-Oriented Word Embedding toward Suicide Prevention,"  
       Daeun Lee, Soyoung Park, Jiwon Kang, **Daejin Choi**, and Jinyoung Han,  
-      EMNLP Findings, November 2020. [![LINK](/image/pdf.gif)](https://www.aclweb.org/anthology/2020.findings-emnlp.200/)
+      EMNLP Findings, November 2020. [![LINK](/images/pdf.gif)](https://www.aclweb.org/anthology/2020.findings-emnlp.200/)
 
       * "Exploring public perceptions of renewable energy: Evidence from a word network model in social network services,"  
       Jisu Kim, Dahye Jeong, **Daejin Choi**, and Eunil Park,  
