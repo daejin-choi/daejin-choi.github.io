@@ -13,7 +13,7 @@ author_profile: true
 
   * 2020
       * "Development of a Machine Learning Model Using Multiple, Heterogeneous Data Sources to Estimate Weekly US Suicide Fatalities,"  
-      Daejin Choi, Steven A. Sumner, Kristin M. Holland, John Draper, Sean Murphy, Daniel A. Bowen, Marissa Zwald, Jing Wang, Royal Law, Jordan Taylor, Chaitanya Konjeti, Munmun De Choudhury,  
+      **Daejin Choi**, Steven A. Sumner, Kristin M. Holland, John Draper, Sean Murphy, Daniel A. Bowen, Marissa Zwald, Jing Wang, Royal Law, Jordan Taylor, Chaitanya Konjeti, Munmun De Choudhury,  
       JAMA Network Open, December 2020. (SCIE, JCR 2019 IF = 5.032)
       [![LINK](/images/pdf.gif)](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2774462)
 
