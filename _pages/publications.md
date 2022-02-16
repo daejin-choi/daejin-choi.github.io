@@ -12,27 +12,27 @@ author_profile: true
 {% include base_path %}
 
   * 2022
-      * "Preventing Rumor Spread with Deep Learning," 
-      **Daejin Choi**, Hyuncheol Oh, Selin Chun, Taekyoung Kwon, and Jinyoung Han,
-      accepted to Expert Systems With Applications  (SCIE, JCR 2021 IF=6.954)
+      * "Preventing Rumor Spread with Deep Learning,"  
+      **Daejin Choi**, Hyuncheol Oh, Selin Chun, Taekyoung Kwon, and Jinyoung Han,  
+      accepted to Expert Systems With Applications (SCIE, JCR 2021 IF=6.954)
       
-      * "Trafficformer: A Transformer-based Traffic Predictor," 
-      Junseo Ko, Jeewoo Yoon, **Daejin Choi\***, Eunil Park, Sangheon Pack, and Jinyoung Han\*, 
+      * "Trafficformer: A Transformer-based Traffic Predictor,"  
+      Junseo Ko, Jeewoo Yoon, **Daejin Choi\***, Eunil Park, Sangheon Pack, and Jinyoung Han\*,  
       In proceeding of IEEE 40th International Conference on Consumer Electronics. January, 2022.
 
-      * "Social networking services as new venue for public perceptions of energy issues: the case of Paris agreement," 
-      Dahye Jeong, Jisu Kim, **Daejin Choi**, and Eunil Park\*, 
+      * "Social networking services as new venue for public perceptions of energy issues: the case of Paris agreement,"  
+      Dahye Jeong, Jisu Kim, **Daejin Choi**, and Eunil Park\*,  
       Energy Strategy Reviews. Vol. 39, pp. 100758, January, 2022. (SCIE, JCR 2021 IF=6.425)
       [![LINK](/images/pdf.gif)](https://www.sciencedirect.com/science/article/pii/S2211467X21001425)
 
   * 2021
-      * "FibVID: Comprehensive Fake News Diffusion Dataset during the COVID-19 Period," 
-      Jisu Kim, Jihwan Aum, SangEun Lee, Eunil Park\*, and **Daejin Choi**, 
-      Telematics and Informatics. Vol. 64, pp. 101688, November, 2021. (SSCI, JCR 2020 IF=6.182)
+      * "FibVID: Comprehensive Fake News Diffusion Dataset during the COVID-19 Period,"  
+      Jisu Kim, Jihwan Aum, SangEun Lee, Eunil Park\*, and **Daejin Choi**,  
+      Telematics and Informatics. Vol. 64, pp. 101688, November, 2021. (SSCI, JCR 2020 IF=6.182) 
       [![LINK](/images/pdf.gif)](https://www.sciencedirect.com/science/article/pii/S0736585321001271)
 
-      * "Passing to Win: Using Characteristics of Passing Information for Match Winner Prediction,"
-      Taihu Li, Jeewoo Yoon, Jinyoung Han\*, and **Daejin Choi\***, 
+      * "Passing to Win: Using Characteristics of Passing Information for Match Winner Prediction,"  
+      Taihu Li, Jeewoo Yoon, Jinyoung Han\*, and **Daejin Choi\***,  
       International Congress on Sport Sciences Research and Technology Support (icSPORTS), September, 2021.
 
   * 2020
