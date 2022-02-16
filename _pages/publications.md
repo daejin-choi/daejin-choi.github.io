@@ -11,6 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
+(\* = (co-)corresponding author, \*\* = equal contributions)
+
   * 2022
       * "Preventing Rumor Spread with Deep Learning,"  
       **Daejin Choi**, Hyuncheol Oh, Selin Chun, Taekyoung Kwon, and Jinyoung Han,  
