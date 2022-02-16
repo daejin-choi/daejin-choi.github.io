@@ -11,12 +11,35 @@ author_profile: true
 
 {% include base_path %}
 
+(\* = (co-)corresponding author, \*\* = equal contributions)
+
+  * 2022
+      * "Preventing Rumor Spread with Deep Learning," 
+      **Daejin Choi**, Hyuncheol Oh, Selin Chun, Taekyoung Kwon, and Jinyoung Han,
+      accepted to Expert Systems With Applications  (SCIE, JCR 2021 IF=6.954)
+      
+      * "Trafficformer: A Transformer-based Traffic Predictor," 
+      Junseo Ko, Jeewoo Yoon, **Daejin Choi\***, Eunil Park, Sangheon Pack, and Jinyoung Han\*, 
+      In proceeding of IEEE 40th International Conference on Consumer Electronics. January, 2022.
+
+      * "Social networking services as new venue for public perceptions of energy issues: the case of Paris agreement," 
+      Dahye Jeong, Jisu Kim, **Daejin Choi**, and Eunil Park\*, 
+      Energy Strategy Reviews. Vol. 39, pp. 100758, January, 2022. (SCIE, JCR 2021 IF=6.425)
+
+  * 2021
+      * "FibVID: Comprehensive Fake News Diffusion Dataset during the COVID-19 Period," 
+      Jisu Kim, Jihwan Aum, SangEun Lee, Eunil Park\*, and **Daejin Choi**, 
+      Telematics and Informatics. Vol. 64, pp. 101688, November, 2021. (SSCI, JCR 2020 IF=6.182)
+
+      * "Passing to Win: Using Characteristics of Passing Information for Match Winner Prediction,"
+      Taihu Li, Jeewoo Yoon, Jinyoung Han\*, and **Daejin Choi\***, 
+      International Congress on Sport Sciences Research and Technology Support (icSPORTS), September, 2021.
+
   * 2020
       * "Development of a Machine Learning Model Using Multiple, Heterogeneous Data Sources to Estimate Weekly US Suicide Fatalities,"  
       **Daejin Choi**, Steven A. Sumner, Kristin M. Holland, John Draper, Sean Murphy, Daniel A. Bowen, Marissa Zwald, Jing Wang, Royal Law, Jordan Taylor, Chaitanya Konjeti, Munmun De Choudhury,  
       JAMA Network Open, December 2020. (SCIE, JCR 2019 IF = 5.032)
       [![LINK](/images/pdf.gif)](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2774462)
-
 
       * "Cross-Lingual Suicidal-Oriented Word Embedding toward Suicide Prevention,"  
       Daeun Lee, Soyoung Park, Jiwon Kang, **Daejin Choi**, and Jinyoung Han,  
