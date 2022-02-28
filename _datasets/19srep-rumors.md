@@ -4,7 +4,8 @@ excerpt: "Daejin Choi, Selin Chun, Hyunchul Oh, Jinyoung Han, and Taekyoung 'Ted
 collection: datasets
 ---
 
-Daejin Choi, Selin Chun, Hyunchul Oh, Jinyoung Han, and Taekyoung "Ted" Kwon, under review
+Daejin Choi, Selin Chun, Hyunchul Oh, Jinyoung Han, and Taekyoung "Ted" Kwon,
+Scientific Reports 10, 310 (2020)
 
 -----
 ## Citation
@@ -102,6 +103,6 @@ study are available from the corresponding author on reasonable request.
 
 -----
 ## Contact
-Daejin Choi (djchoi@gatech.edu)
+Daejin Choi (djchoi@inu.ac.kr)
 Jinyoung Han (jinyounghan@skku.edu)
 
