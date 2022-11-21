@@ -20,14 +20,16 @@ applications on these domains.
 News (Last updated: Feb. 17 2022)
 =====
  
+- <span style="color:rgb(33,67,156)"> **[Nov. 2022]** The paper to understanding online social support for mental health has been accepted to ACM CSCW!
+- <span style="color:rgb(33,67,156)"> **[Aug. 2022]** I have received Lecture Award (우수강의상) from Incheon National University.
 - <span style="color:rgb(33,67,156)"> **[Feb. 2022]** The paper of developing a deep-learning-based fact-checker model has been accepted in Elsevier Expert Systems with Applications!
-- <span style="color:rgb(33,67,156)"> **[Nov. 2021]** The paper of understanding public perception of energy issue in social networking services has been accepted in Energy Strategy Review.
-- <span style="color:rgb(33,67,156)"> **[Oct. 2021]** The paper of predicting traffic volumes will be presented at IEEE Conference on Consumer Electronics 2022.
-- <span style="color:rgb(33,67,156)"> **[Sep. 2021]** The paper of predicting match winners in Chinese Football League will be presented at icSPORTS.
-- <span style="color:rgb(33,67,156)"> **[Jul. 2021]** The paper of understanding the propagation of COVID-19-related fake news has been accepted in Telematics and Informatics.
+- <span style="color:rgb(0,0,0)"> **[Nov. 2021]** The paper of understanding public perception of energy issue in social networking services has been accepted in Energy Strategy Review.
+- <span style="color:rgb(0,0,0)"> **[Oct. 2021]** The paper of predicting traffic volumes will be presented at IEEE Conference on Consumer Electronics 2022.
+- <span style="color:rgb(0,0,0)"> **[Sep. 2021]** The paper of predicting match winners in Chinese Football League will be presented at icSPORTS.
+- <span style="color:rgb(0,0,0)"> **[Jul. 2021]** The paper of understanding the propagation of COVID-19-related fake news has been accepted in Telematics and Informatics.
 - <span style="color:rgb(0,0,0)"> **[Dec. 23 2020]** Our paper on estimating weekly suicide fatalities in real-time has been published to JAMA Network Open!
 - <span style="color:rgb(0,0,0)"> **[Sep. 16 2020]** Our paper on cross-lingual suicidal-oriented word embedding has been accepted to EMNLP Findings!
-- <span style="color:rgb(255,50,50)"> **[Aug. 04 2020]** I will be joining
+- <span style="color:rgb(0,0,0)"> **[Aug. 04 2020]** I will be joining
   CS Department at Incheon National University as an Assistant Professor in fall
   semester. It was the great honor to work with the competitive collaborators at
   Georgia Institute of Technology.

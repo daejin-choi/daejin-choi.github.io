@@ -14,9 +14,14 @@ author_profile: true
 (\* = (co-)corresponding author, \*\* = equal contributions)
 
   * 2022
+      * "Supporters First: Understanding Online Social Support from a Supporter Perspective,"  
+      Meeyun Kim, Koustuv Saha, Munmun De Choudhury, and **Daejin Choi**,
+      ACM Conference on Computer-Supportive Cooperative Work and Social Computing (CSCW) (BK21 Top-tier CS Conference: IF=3.0)
+ 
+  * 2022
       * "Preventing Rumor Spread with Deep Learning,"  
       **Daejin Choi**, Hyuncheol Oh, Selin Chun, Taekyoung Kwon, and Jinyoung Han,  
-      accepted to Expert Systems With Applications (SCIE, JCR 2021 IF=6.954)
+      Expert Systems With Applications. Vol. 197, pp. 116688, July, 2022 (SCIE, JCR 2020 IF=6.954)
       
       * "Trafficformer: A Transformer-based Traffic Predictor,"  
       Junseo Ko, Jeewoo Yoon, **Daejin Choi\***, Eunil Park, Sangheon Pack, and Jinyoung Han\*,  
