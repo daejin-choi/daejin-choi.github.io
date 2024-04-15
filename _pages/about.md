@@ -17,12 +17,16 @@ applications on these domains.
 
 {% include base_path %}
 
-News (Last updated: Feb. 17 2022)
+News (Last updated: Apr. 15 2024)
 =====
  
-- <span style="color:rgb(33,67,156)"> **[Nov. 2022]** The paper to understanding online social support for mental health has been accepted to ACM CSCW!
-- <span style="color:rgb(33,67,156)"> **[Aug. 2022]** I have received Lecture Award (우수강의상) from Incheon National University.
-- <span style="color:rgb(33,67,156)"> **[Feb. 2022]** The paper of developing a deep-learning-based fact-checker model has been accepted in Elsevier Expert Systems with Applications!
+- <span style="color:rgb(33,67,256)"> **[Apr. 2024]** I have received Research Award (우수연구상) from Incheon National University.
+- <span style="color:rgb(33,67,256)"> **[Apr. 2024]** The paper to debunk fake news for COVID-19 has been accepted to The WebConf 2024 (Poster)!
+- <span style="color:rgb(33,67,256)"> **[Mar. 2024]** The paper on understanding and predicting diversification in video recommendation systems has been published in Elsevier Expert Systems with Applications!
+- <span style="color:rgb(0,0,0)"> **[Apr. 2023]** The paper to predict continuity of online conversations has been published in Elsevier Telematics and Informatics.
+- <span style="color:rgb(0,0,0)"> **[Nov. 2022]** The paper to understanding online social support for mental health has been accepted to ACM CSCW!
+- <span style="color:rgb(0,0,0)"> **[Aug. 2022]** I have received Lecture Award (우수강의상) from Incheon National University.
+- <span style="color:rgb(0,0,0)"> **[Feb. 2022]** The paper of developing a deep-learning-based fact-checker model has been accepted in Elsevier Expert Systems with Applications!
 - <span style="color:rgb(0,0,0)"> **[Nov. 2021]** The paper of understanding public perception of energy issue in social networking services has been accepted in Energy Strategy Review.
 - <span style="color:rgb(0,0,0)"> **[Oct. 2021]** The paper of predicting traffic volumes will be presented at IEEE Conference on Consumer Electronics 2022.
 - <span style="color:rgb(0,0,0)"> **[Sep. 2021]** The paper of predicting match winners in Chinese Football League will be presented at icSPORTS.
