@@ -13,7 +13,25 @@ author_profile: true
 
 (\* = (co-)corresponding author, \*\* = equal contributions)
 
-  * 2022
+  * 2024
+      * "Fighting against Fake News on Newly-Emerging Crisis: A Case Study of COVID-19, "
+      Migyeong Yang, Chaewon Park, Jiwon Kang, Daeun Lee, **Daejin Choi\***, and Jinyoung Han\*, 
+      will be appeared in The WebConf2024
+
+      * "Predicting Diversification Scores of Videos in Recommendation Network," 
+      Selin Chun, Jinyoung Han, **Daejin Choi\***, and Taekyoung Kwon\*, 
+      Expert Systems with Applications (SCIE, JCR 2022 IF=8.5)
+
+
+  * 2023
+      * "Predicting Continuity of Online Conversations on Reddit,"
+      Jinhyeon Kim, Jinyoung Han\*, and **Daejin Choi\***,
+      Telematics and Informatics. Vol. 79, pp. 101965, April, 2023 (SSCI, JCR 2022 IF=9.140)
+
+      * "Binary Code Representation With Well-Balanced Instruction Normalization,"
+      Hyungjoon Koo, Soyeon Park, **Daejin Choi**, and Taesoo Kim,
+      IEEE Access.  Vol. 11, pp. 29183-29198, March 2023. (SCIE, JCR 2022 IF=3.476)
+
       * "Supporters First: Understanding Online Social Support from a Supporter Perspective,"  
       Meeyun Kim, Koustuv Saha, Munmun De Choudhury, and **Daejin Choi**,
       ACM Conference on Computer-Supportive Cooperative Work and Social Computing (CSCW) (BK21 Top-tier CS Conference: IF=3.0)
