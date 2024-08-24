@@ -19,7 +19,7 @@ applications on these domains.
 
 News (Last updated: Apr. 15 2024)
 =====
- 
+- <span style="color:rgb(33,67,256)"> **[Apr. 2024]** The paper to forecast traffic volumes has been accepted to Mobisys 2024 (Poster)!
 - <span style="color:rgb(33,67,256)"> **[Apr. 2024]** I have received Research Award (우수연구상) from Incheon National University.
 - <span style="color:rgb(33,67,256)"> **[Apr. 2024]** The paper to debunk fake news for COVID-19 has been accepted to The WebConf 2024 (Poster)!
 - <span style="color:rgb(33,67,256)"> **[Mar. 2024]** The paper on understanding and predicting diversification in video recommendation systems has been published in Elsevier Expert Systems with Applications!
