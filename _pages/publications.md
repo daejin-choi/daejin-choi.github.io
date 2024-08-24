@@ -13,10 +13,27 @@ author_profile: true
 
 (\* = (co-)corresponding author, \*\* = equal contributions)
 
+  * Submitted
+      * "CURE: Context- and Uncertainty-Aware Mental Disorder Detection, " commited to EMNLP 2025. 
+      (Overall Rating: 4.0/5.0, Participated as a corresponding author)
+
+      * "Traffic Forecasting in Data Centers by A Light-weight Predictor with Online and Transfer Learning, " 
+      submitted to ACM Knowledge Discovery from Data (KDD) 2025. (Participated as a first author)
+
+      * "Political Bias Prediction Models Focus on Source Cues, Not Semantics, " submitted to AAAI 2025. 
+      (Participated as a corresponding author)
+
+      * "BankTweak: Adversarial Attack against Multi-Object Trackers by Manipulating Feature Banks, " 
+      submitted to AAAI 2025. (Participated as a co-author)
+
   * 2024
+      * "ISOML: Inter-Service Online Meta-Learning for Newly Emerging Network Traffic Prediction, "
+      Migyeong Kang, Juho Jung, Minhan Cho, **Daejin Choi\***, Eunil Park, Sangheon Pack, Jinyoung Han*
+      will be appeared in ACM Mobisys 2024 (Poster, BK21 Top-tier CS Conference: IF=4.0)
+
       * "Fighting against Fake News on Newly-Emerging Crisis: A Case Study of COVID-19, "
       Migyeong Yang, Chaewon Park, Jiwon Kang, Daeun Lee, **Daejin Choi\***, and Jinyoung Han\*, 
-      will be appeared in The WebConf2024
+      will be appeared in The WebConf2024 (Poster, BK21 Top-tier CS Conference: IF=4.0)
 
       * "Predicting Diversification Scores of Videos in Recommendation Network," 
       Selin Chun, Jinyoung Han, **Daejin Choi\***, and Taekyoung Kwon\*, 
@@ -33,7 +50,7 @@ author_profile: true
       IEEE Access.  Vol. 11, pp. 29183-29198, March 2023. (SCIE, JCR 2022 IF=3.476)
 
       * "Supporters First: Understanding Online Social Support from a Supporter Perspective,"  
-      Meeyun Kim, Koustuv Saha, Munmun De Choudhury, and **Daejin Choi**,
+      Meeyun Kim, Koustuv Saha, Munmun De Choudhury, and **Daejin Choi\***,
       ACM Conference on Computer-Supportive Cooperative Work and Social Computing (CSCW) (BK21 Top-tier CS Conference: IF=3.0)
  
   * 2022
