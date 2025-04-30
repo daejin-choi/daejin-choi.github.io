@@ -15,7 +15,8 @@ Click [here]({{ base_path }}/files/cv_djchoi.pdf) to download PDF version.
 
 Professional Experiences
 ======
-* Sep. 2020 - present: **Assistant Professor** at Incheon National University.  
+* Mar. 2025 - present: **Assistant Professor** at Ewha Womans University.  
+* Sep. 2020 - Feb. 2025: **Assistant Professor** at Incheon National University.  
 * Feb. 2019 - Aug. 2020: **Research Scientist** at Georgia Institute of Technology.  
   (PI: Munmun De Choudhury)
 * Aug. 2012 - Feb. 2019: **Research Assistance** at Seoul National University.  
@@ -33,22 +34,48 @@ Education
  
 Selected Publications
 ======
-see [here]({{ base_path }}/publications/) for all publications.
+  * 2025
+      * "BankTweak: Adversarial Attack against Multi-Object Trackers by Manipulating Feature Banks, " 
+      Woojin Shin, Donghwa Kang, **Daejin Choi**, Brent Byunghoon Kang, Jinkyu Lee, and Hyeongboo Baek*
+      The 34th International Joint Conference on Artificial Intelligence (IJCAI), 2025 (BK21 Top-tier CS Conference: IF=4.0)
 
-  * 2020
+      * "Political Bias Prediction Models Focus on Source Cues, Not Semantics, " 
+      Selin Chun, **Daejin Choi\***, Taekyoung Kwon*,
+      The 39th Annual AAAI Conference on Artificial Intelligence, 2025 (BK21 Top-tier CS Conference: IF=4.0)
+
+  * 2024
+      * "CURE: Context- and Uncertainty-Aware Mental Disorder Detection, " 
+      Migyeong Kang, Goun Choi, Hyolim Jeon, Jihyun An, **Daejin Choi\***, Jinyoung Han\*,
+      The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP) (BK21 Top-tier CS Conference: IF=3.0)
+
+      * "Predicting Diversification Scores of Videos in Recommendation Network," 
+      Selin Chun, Jinyoung Han, **Daejin Choi\***, and Taekyoung Kwon\*, 
+      Expert Systems with Applications (SCIE, JCR 2022 IF=8.5)
+
+
+  * 2023
+      * "Supporters First: Understanding Online Social Support from a Supporter Perspective,"  
+      Meeyun Kim, Koustuv Saha, Munmun De Choudhury, and **Daejin Choi\***,
+      ACM Conference on Computer-Supportive Cooperative Work and Social Computing (CSCW) (BK21 Top-tier CS Conference: IF=3.0)
+ 
+  * Before 2022
+      * "Preventing Rumor Spread with Deep Learning,"  
+      **Daejin Choi**, Hyuncheol Oh, Selin Chun, Taekyoung Kwon, and Jinyoung Han,  
+      Expert Systems With Applications. Vol. 197, pp. 116688, July, 2022 (SCIE, JCR 2020 IF=6.954)
+
+      * "Development of a Machine Learning Model Using Multiple, Heterogeneous Data Sources to Estimate Weekly US Suicide Fatalities,"  
+      **Daejin Choi**, Steven A. Sumner, Kristin M. Holland, John Draper, Sean Murphy, Daniel A. Bowen, Marissa Zwald, Jing Wang, Royal Law, Jordan Taylor, Chaitanya Konjeti, Munmun De Choudhury,  
+      JAMA Network Open, December 2020. (SCIE, JCR 2019 IF = 5.032)
+      [![LINK](/images/pdf.gif)](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2774462)
+
+      * "Cross-Lingual Suicidal-Oriented Word Embedding toward Suicide Prevention,"  
+      Daeun Lee, Soyoung Park, Jiwon Kang, **Daejin Choi**, and Jinyoung Han,  
+      EMNLP Findings, November 2020. [![LINK](/images/pdf.gif)](https://www.aclweb.org/anthology/2020.findings-emnlp.200/)
+
       * "Rumor Propagation is Amplified by Echo Chambers in Social Media",     
       **Daejin Choi**, Selin Chun, Hyunchul Oh, Jinyoung Han, and Ted "Taekyoung" Kwon,    
       Scientific Reports. Vol. 10, Issue 1, pp. 310. Jan. 2020.
       (DOI:10.1038/s41598-019-57272-3, SCI. IF=4.122) [![LINK](/images/pdf.gif)](https://doi.org/10.1038/s41598-019-57272-3)
-
-  * 2019
-      * "Who Drives Successful Online Conversations? Unveiling the Role of First User Response",  
-      Ye-eun Won, Jiwon Kang, **Daejin Choi**, Eunil Park, and Jinyoung Han,  
-      Kybernetes, Accepted. (DOI: 10.1108/K-09-2018-0518) [![LINK](/images/pdf.gif)](https://www.emerald.com/insight/content/doi/10.1108/K-09-2018-0518/full/pdf?title=who-drives-successful-online-conversations-unveiling-the-role-of-first-user-response)
-
-      * "Understanding Customers' Hotel Revisiting Behaviour: A Sentiment Analysis of Online Feedback Reviews",  
-      Eunil Park, Jiwon Kang, **Daejin Choi**, and Jinyoung Han  
-      Current Issues in Tourism, Accepted. (DOI: 10.1080/13683500.2018.1549025) [![LINK](/images/pdf.gif)](https://www.tandfonline.com/doi/full/10.1080/13683500.2018.1549025)
 
       * "Predicting Content Consumption from Content-to-Content Relationships",   
       Jinyoung Han, **Daejin Choi**, Taejoong Chung, Chen-Nee Chuah, Hyun-chul Kim, and Ted "Taekyoung" Kwon,   
@@ -67,17 +94,11 @@ see [here]({{ base_path }}/publications/) for all publications.
       Selin Chun, **Daejin Choi**, Jinyoung Han, Huy Kang Kim, and Taekyoung Kwon,  
       International World Wide Web Conferenc (WWW) 2018, Ryon, France, April 2018. [![LINK](/images/pdf.gif)](https://dl.acm.org/citation.cfm?id=3186173)
 
-      * "Bit.ly/practice: Uncovering Content Publishing and Sharing through URL Shortening Services",  
-      **Daejin Choi**, Jinyoung Han, Selin Chun, Efstratios Rappos, Stephan Robert, and Ted "Taekyoung" Kwon,  
-      Elsevier Telematics and Informatics, Vol. 35, Issue 5, pp. 1310-1323, August 2018. (DOI: 10.1016/j.tele.2018.03.003  [![LINK](/images/pdf.gif)](https://doi.org/10.1016/j.tele.2018.03.003)
-
-  * 2017
       * "Predicting Popular and Viral Image Cascades in Pinterest",  
       Jinyoung Han, **Daejin Choi**, Jungseock Joo and Chen-Nee Chuah,  
       International AAAI Conference on Web and Social Media (ICWSM 17'), Montreal, Canada, 2017.  
       <span style="color:red">(acceptance ratio = 50/357= 14.0%)</span> [![LINK](/images/pdf.gif)](https://aaai.org/ocs/index.php/ICWSM/ICWSM17/paper/view/15605)
 
-  * Before 2016
       * "Characterizing Conversation Patterns in Reddit: From the Perspectives of Content Properties and User Participation Behaviors",  
       **Daejin Choi**, Jinyoung Han, Taejoong Chung, Yong-Yeol Ahn, Byung-Gon Chun, Ted "Taekyoung" Kwon,  
       ACM Conference on Online Social Networks (COSN) 2015, Standford, CA, USA, Nov. 2015.  

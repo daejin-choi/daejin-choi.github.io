@@ -22,6 +22,9 @@ News (Last updated: May 1 2025)
 =====
 - <span style="color:rgb(33,67,256)"> **[Apr. 2025]** The paper of adversarial attack against multi-object trackers has been accepted to IJCAI 2025!
 - <span style="color:rgb(33,67,256)"> **[Feb. 2025]** The paper to alert the issues on the prior models for political bias prediction has been accepted to AAAI 2025!
+- <span style="color:rgb(250,0,0)"> **[Feb. 2025]** I will be joining
+the Department of AI at Ewha Womans University as an Assistant Professor on March, 2025.
+I love all the time at Incheon National University. 
 - <span style="color:rgb(0,0,0)"> **[Apr. 2024]** I have received Research Award (우수연구상) from Incheon National University
 - <span style="color:rgb(0,0,0)"> **[Apr. 2024]** The paper to debunk fake news for COVID-19 has been accepted to The WebConf 2024 (Poster)!
 - <span style="color:rgb(0,0,0)"> **[Mar. 2024]** The paper on understanding and predicting diversification in video recommendation systems has been published in Elsevier Expert Systems with Applications!
