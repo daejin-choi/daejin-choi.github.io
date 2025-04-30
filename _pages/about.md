@@ -10,19 +10,21 @@ redirect_from:
 
 Welcome to Dr. Daejin Choi's webpage.
 
-The majority of my research topics lies on Data Science. In particular, the
-study includes Computational Social Science, Network measurement. Currently, I
-am interested in designing (and implementing) machine-learning-based
-applications on these domains.
+My research interests rely on Human-Centered Computing, particularly Human-centered AI 
+and Computational Social Science. In Human-centered AI, I seek to develop intelligent 
+applications or systems to help understand, predict human behaviors, or enhance human society. 
+
+**[IMPORTANT NOTES]** This page will not be updated anymore. Visit [Here](https://sites.google.com/view/ewha-hai) to see more recent information of me and our lab.
 
 {% include base_path %}
 
-News (Last updated: Apr. 15 2024)
+News (Last updated: May 1 2025)
 =====
-- <span style="color:rgb(33,67,256)"> **[Apr. 2024]** The paper to forecast traffic volumes has been accepted to Mobisys 2024 (Poster)!
-- <span style="color:rgb(33,67,256)"> **[Apr. 2024]** I have received Research Award (우수연구상) from Incheon National University.
-- <span style="color:rgb(33,67,256)"> **[Apr. 2024]** The paper to debunk fake news for COVID-19 has been accepted to The WebConf 2024 (Poster)!
-- <span style="color:rgb(33,67,256)"> **[Mar. 2024]** The paper on understanding and predicting diversification in video recommendation systems has been published in Elsevier Expert Systems with Applications!
+- <span style="color:rgb(33,67,256)"> **[Apr. 2025]** The paper of adversarial attack against multi-object trackers has been accepted to IJCAI 2025!
+- <span style="color:rgb(33,67,256)"> **[Feb. 2025]** The paper to alert the issues on the prior models for political bias prediction has been accepted to AAAI 2025!
+- <span style="color:rgb(0,0,0)"> **[Apr. 2024]** I have received Research Award (우수연구상) from Incheon National University
+- <span style="color:rgb(0,0,0)"> **[Apr. 2024]** The paper to debunk fake news for COVID-19 has been accepted to The WebConf 2024 (Poster)!
+- <span style="color:rgb(0,0,0)"> **[Mar. 2024]** The paper on understanding and predicting diversification in video recommendation systems has been published in Elsevier Expert Systems with Applications!
 - <span style="color:rgb(0,0,0)"> **[Apr. 2023]** The paper to predict continuity of online conversations has been published in Elsevier Telematics and Informatics.
 - <span style="color:rgb(0,0,0)"> **[Nov. 2022]** The paper to understanding online social support for mental health has been accepted to ACM CSCW!
 - <span style="color:rgb(0,0,0)"> **[Aug. 2022]** I have received Lecture Award (우수강의상) from Incheon National University.

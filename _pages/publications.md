@@ -13,27 +13,31 @@ author_profile: true
 
 (\* = (co-)corresponding author, \*\* = equal contributions)
 
-  * Submitted
-      * "CURE: Context- and Uncertainty-Aware Mental Disorder Detection, " commited to EMNLP 2025. 
-      (Overall Rating: 4.0/5.0, Participated as a corresponding author)
-
+  * Work-in-progress
       * "Traffic Forecasting in Data Centers by A Light-weight Predictor with Online and Transfer Learning, " 
-      submitted to ACM Knowledge Discovery from Data (KDD) 2025. (Participated as a first author)
+      submitted to JNCA
 
-      * "Political Bias Prediction Models Focus on Source Cues, Not Semantics, " submitted to AAAI 2025. 
-      (Participated as a corresponding author)
-
+  * 2025
       * "BankTweak: Adversarial Attack against Multi-Object Trackers by Manipulating Feature Banks, " 
-      submitted to AAAI 2025. (Participated as a co-author)
+      Woojin Shin, Donghwa Kang, **Daejin Choi**, Brent Byunghoon Kang, Jinkyu Lee, and Hyeongboo Baek*
+      The 34th International Joint Conference on Artificial Intelligence (IJCAI), 2025 (BK21 Top-tier CS Conference: IF=4.0)
+
+      * "Political Bias Prediction Models Focus on Source Cues, Not Semantics, " 
+      Selin Chun, **Daejin Choi\***, Taekyoung Kwon*,
+      The 39th Annual AAAI Conference on Artificial Intelligence, 2025 (BK21 Top-tier CS Conference: IF=4.0)
 
   * 2024
+      * "CURE: Context- and Uncertainty-Aware Mental Disorder Detection, " 
+      Migyeong Kang, Goun Choi, Hyolim Jeon, Jihyun An, **Daejin Choi\***, Jinyoung Han\*,
+      The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP) (BK21 Top-tier CS Conference: IF=3.0)
+
       * "ISOML: Inter-Service Online Meta-Learning for Newly Emerging Network Traffic Prediction, "
-      Migyeong Kang, Juho Jung, Minhan Cho, **Daejin Choi\***, Eunil Park, Sangheon Pack, Jinyoung Han*
-      will be appeared in ACM Mobisys 2024 (Poster, BK21 Top-tier CS Conference: IF=4.0)
+      Migyeong Kang, Juho Jung, Minhan Cho, **Daejin Choi\***, Eunil Park, Sangheon Pack, Jinyoung Han\*
+      ACM Mobisys 2024 (Poster, BK21 Top-tier CS Conference: IF=4.0)
 
       * "Fighting against Fake News on Newly-Emerging Crisis: A Case Study of COVID-19, "
       Migyeong Yang, Chaewon Park, Jiwon Kang, Daeun Lee, **Daejin Choi\***, and Jinyoung Han\*, 
-      will be appeared in The WebConf2024 (Poster, BK21 Top-tier CS Conference: IF=4.0)
+      The WebConf 2024 (Poster, BK21 Top-tier CS Conference: IF=4.0)
 
       * "Predicting Diversification Scores of Videos in Recommendation Network," 
       Selin Chun, Jinyoung Han, **Daejin Choi\***, and Taekyoung Kwon\*, 
